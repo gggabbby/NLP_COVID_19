@@ -19,3 +19,11 @@ Genisim is a popular open source library, for Python and other programming langu
 
 <img src="images/coherence_vals.png" width=500>
 The highest score is 0.495 for 20 topics.
+
+## Result
+- Visualization of the topicskeywords
+<img src="images/Gensim-LDA-vis.png" width=600>
+- Result of abstract text with dominant topic number, topic percent contribution, and keywords
+<img src="images/dominant_topic.png" width=600>
+- Result of the most representative document for each topic
+<img src="images/most_representative.png" width=600>
