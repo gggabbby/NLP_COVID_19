@@ -11,6 +11,6 @@ Use the link below to visit the data source:
 [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 
 - Sample of data after cleaning
-<img src="images/data_sample.png" width=500>
+<img src="images/data_sample.png" width=600>
 
 ## 
