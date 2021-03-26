@@ -18,5 +18,4 @@ The corpus was obtained from the COVID-19 Open Research Dataset and consisted of
 Genisim is a popular open source library, for Python and other programming languages, that can be used for unsupervised topic modelling using Latent Dirichlet Allocation (LDA). Nine models based on the number of different topics were established to explore whether the number of topics is the best number. These topic numbers are: 2, 10, 20, 40, 80, 120, 150, 180, 200. The coherence score is used to judge the performance of the model. It ranges from 0 to 1, the higher the score the better the topic number choice is. 
 
 <img src="images/coherence_vals.png" width=500>
-
 The highest score is 0.495 for 20 topics.
