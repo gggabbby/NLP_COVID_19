@@ -23,7 +23,9 @@ The highest score is 0.495 for 20 topics.
 ## Result
 - Visualization of the topicskeywords
 <img src="images/Gensim-LDA-vis.png" width=800>
+
 - Result of abstract text with dominant topic number, topic percent contribution, and keywords
 <img src="images/dominant_topic.png" width=800>
+
 - Result of the most representative document for each topic
 <img src="images/most_representative.png" width=800>
