@@ -11,7 +11,7 @@ The corpus was obtained from the COVID-19 Open Research Dataset and consisted of
 [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 
 - Sample of data after cleaning
-<img src="images/data_sample.png" width=600>
+<img src="images/data_sample.png" width=800>
 
 ## Gensim LDA Models
 
@@ -22,8 +22,8 @@ The highest score is 0.495 for 20 topics.
 
 ## Result
 - Visualization of the topicskeywords
-<img src="images/Gensim-LDA-vis.png" width=600>
+<img src="images/Gensim-LDA-vis.png" width=800>
 - Result of abstract text with dominant topic number, topic percent contribution, and keywords
-<img src="images/dominant_topic.png" width=600>
+<img src="images/dominant_topic.png" width=800>
 - Result of the most representative document for each topic
-<img src="images/most_representative.png" width=600>
+<img src="images/most_representative.png" width=800>
